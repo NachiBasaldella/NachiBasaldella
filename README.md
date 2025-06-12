@@ -10,7 +10,7 @@ Projects applying Python, R, and SQL for data exploration and analysis.
 - 📈 [data-science-practice](https://github.com/NachiBasaldella/DataSciencePractice)  
   Practical data science challenges including data cleaning, analysis, and visualization.
 
-  - 🎓 [university-projects](https://github.com/NachiBasaldella/UniversityProjects)  
+- 🎓 [university-projects](https://github.com/NachiBasaldella/UniversityProjects)  
   University assignments and academic projects from various subjects.
 
 - 🐍 [python-projects-practice](https://github.com/NachiBasaldella/Python-Projects-Practice-Repository)  
