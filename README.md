@@ -7,30 +7,30 @@ I'm a **Data Science student** with experience in **Front-End Development** and 
 ## 📊 Data Science & Python
 Projects applying Python, R, and SQL for data exploration and analysis.
 
-- 📈 [data-science-practice](https://github.com/NachiBasaldella/DataSciencePractice)  
+- 📈 [data-science-portfolio]([https://github.com/NachiBasaldella/data-science-portfolio])  
   Practical data science challenges including data cleaning, analysis, and visualization.
 
-- 🎓 [university-projects](https://github.com/NachiBasaldella/UniversityProjects)  
+- 🎓 [university-projects](https://github.com/NachiBasaldella/university-projects)  
   University assignments and academic projects from various subjects.
 
-- 🐍 [python-projects-practice](https://github.com/NachiBasaldella/Python-Projects-Practice-Repository)  
+- 🐍 [python-projects-practice](https://github.com/NachiBasaldella/python-projects-practice)  
   A collection of Python exercises to develop and sharpen my programming skills.
 
 ---
 ## 👩‍💻 Front-End Development
 Projects that showcase my skills in HTML, CSS, and JavaScript.
 
-- 🌐 [frontend-portfolio](https://github.com/NachiBasaldella/Portfolio-Front-End-Developer)  
+- 🌐 [frontend-portfolio](https://github.com/NachiBasaldella/frontend-portfolio)  
   My personal portfolio as a Front-End Developer.
 
-- 💻 [frontend-course-projects](https://github.com/NachiBasaldella/Front-End-Developer-Course-Repository)  
+- 💻 [frontend-course-projects](https://github.com/NachiBasaldella/frontend-course-projects)  
   Hands-on projects and exercises completed during my web development training.
 
 ---
 ## 🔐 Other Projects
 Personal and academic repositories.
 
-- ✨ [js-password-manager](https://github.com/NachiBasaldella/JavaScript-Password-Manager-Project)  
+- ✨ [js-password-manager](https://github.com/NachiBasaldella/js-password-manager)  
   A JavaScript-based password manager with secure generation and storage logic.
 
 ---
