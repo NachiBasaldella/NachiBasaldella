@@ -7,7 +7,7 @@ I'm a **Data Science student** with experience in **Front-End Development** and 
 ## 📊 Data Science & Python
 Projects applying Python, R, and SQL for data exploration and analysis.
 
-- 📈 [data-science-portfolio]([https://github.com/NachiBasaldella/data-science-portfolio])  
+- 📈 [data-science-portfolio](https://github.com/NachiBasaldella/data-science-portfolio)  
   Practical data science challenges including data cleaning, analysis, and visualization.
 
 - 🎓 [university-projects](https://github.com/NachiBasaldella/university-projects)  
