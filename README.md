@@ -36,10 +36,10 @@ Personal and academic repositories.
 ---
 
 ## 🌍 About Me
-- 🎓 Bachelor’s Degree student in Data Science  
+- 🎓 Bachelor’s Degree in Data Science  
 - 💻 Trained in Front-End Web Development  
 - 🧬 Junior Health Researcher with international experience  
-- 🌐 Quadrilingual (Spanish · English · French : German)
+- 🌐 Quadrilingual (Spanish · English · French · German)
 
 📬 Looking to collaborate or connect? I'm open to exciting opportunities and creative challenges!  
 🔗 [LinkedIn](https://www.linkedin.com/in/nazaret-basaldella-720864164/) · [Portfolio](#) · [Email](nazaretbasaldel@gmail.com)
