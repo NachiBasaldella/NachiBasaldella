@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nazaret
 
-I'm a **Data Scientist student** with experience in **Front-End Development** and **Health Research**. I'm passionate about creating meaningful solutions through code, design, and data analysis.
+I'm a **Data Scientist ** with experience in **Front-End Development** and **Health Research**. I'm passionate about creating meaningful solutions through code, design, and data analysis.
 
 ---
 
