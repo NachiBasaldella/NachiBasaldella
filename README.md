@@ -20,9 +20,6 @@ Projects applying Python, R, and SQL for data exploration and analysis.
 - 🎓 [university-projects](https://github.com/NachiBasaldella/university-projects)  
   University assignments and academic projects from various subjects.
 
-- 🐍 [python-projects-practice](https://github.com/NachiBasaldella/python-projects-practice)  
-  A collection of Python exercises to develop and sharpen my programming skills.
-
 ---
 ## 👩‍💻 Front-End Development
 Projects that showcase my skills in HTML, CSS, and JavaScript.
