@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Nazaret
 
-I'm a **Data Scientist ** with experience in **Front-End Development** and **Health Research**. I'm passionate about creating meaningful solutions through code, design, and data analysis.
+ Data Analyst | Business Analy cs | Opera ons Performance
+
+Analytical and detail-oriented Data Analyst & Business Analytics professional with
+ experience in Python, SQL, and Power BI for data wrangling, visualization, and
+ operational performance analysis. Passionate about turning data into actionable
+ insights that support strategic and day-to-day decision-making. Combining a
+ background in Data Science and Business Intelligence with strong analytical and
+ communication skills. Multilingual (EN, DE, ES) and currently based in Switzerland
 
 ---
 
@@ -36,7 +43,8 @@ Personal and academic repositories.
 ---
 
 ## 🌍 About Me
-- 🎓 Bachelor’s Degree in Data Science  
+- 🎓 Bachelor’s Degree in Data Science
+-  🎓 Diploma in Business Intelligence 
 - 💻 Trained in Front-End Web Development  
 - 🧬 Junior Health Researcher with international experience  
 - 🌐 Quadrilingual (Spanish · English · French · German)
